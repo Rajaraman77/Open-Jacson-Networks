@@ -22,8 +22,8 @@ Visual components and Python
 
 ## Program:
 ```
-Developed by : Ratheesh Kumar BR
-Register number : 23001972
+Developed by : RAJARAMAN V
+Register number : 212223110038
 ```
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
