@@ -1,3 +1,5 @@
+                                   Developed by : RAJARAMAN V
+                                   Register number : 212223110038
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
